@@ -8,3 +8,6 @@ langgraph
 langsmith
 ipykernel
 langchain_tavily
+faiss-cpu
+sentence-transformers
+chromadb
